@@ -7,11 +7,11 @@ markdown: kramdown
 permalink: pretty
 
 plugins:
-- jekyll-sitemap
-- jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll-seo-tag
 
 google_analytics: false
 
 author:
-name: "BD"
-email: "krytoi848@gmail.com"
+   name: "BD"
+   email: "krytoi848@gmail.com"
