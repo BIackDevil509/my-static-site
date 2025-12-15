@@ -1,0 +1,17 @@
+title: "Мой статический сайт"
+description: "Современный статический сайт на GitHub Pages"
+baseurl: "/my-static-site"
+url: "https://biackdevil509.github.io"
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+
+google_analytics: false
+
+author:
+name: "BD"
+email: "krytoi848@gmail.com"
